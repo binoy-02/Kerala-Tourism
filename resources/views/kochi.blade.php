@@ -30,7 +30,7 @@ h1{
         text-shadow: 0 0 3px #2d1b75,5px 2px 5px black;
 }
 .banner{
-    background-image: url(Alappuzha.jpeg);
+    background-image: url(kochi.jpeg);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -38,13 +38,13 @@ h1{
 </style>
 <body>
     <div class="banner">
-<h1 > Alappuzha</h1>
+<h1 > kochi</h1>
 <p>
-    Alappuzha (or Alleppey) is a city on the Laccadive Sea in the southern Indian state of Kerala.
-    It's best known for houseboat cruises along the rustic Kerala backwaters, a network of tranquil 
-    canals and lagoons. Alappuzha Beach is the site of the 19th-century Alappuzha Lighthouse. 
-    The city's Mullakkal Temple features a traditional design. Punnamada Lake's snake boat races are a well-known
- annual event
+    Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state.
+    It has been a port since 1341, when a flood carved out its harbor and opened it to Arab,
+    Chinese and European merchants. Sites reflecting those influences include Fort Kochi, 
+    a settlement with tiled colonial bungalows and diverse houses of worship. 
+    Cantilevered Chinese fishing nets, typical of Kochi, have been in use for centuries.
 </p>
     </div>
 </body>

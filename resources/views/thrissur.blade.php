@@ -30,7 +30,7 @@ h1{
         text-shadow: 0 0 3px #2d1b75,5px 2px 5px black;
 }
 .banner{
-    background-image: url(Alappuzha.jpeg);
+    background-image: url(thrissur.jpg);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -38,13 +38,14 @@ h1{
 </style>
 <body>
     <div class="banner">
-<h1 > Alappuzha</h1>
+<h1 > Thrissur</h1>
 <p>
-    Alappuzha (or Alleppey) is a city on the Laccadive Sea in the southern Indian state of Kerala.
-    It's best known for houseboat cruises along the rustic Kerala backwaters, a network of tranquil 
-    canals and lagoons. Alappuzha Beach is the site of the 19th-century Alappuzha Lighthouse. 
-    The city's Mullakkal Temple features a traditional design. Punnamada Lake's snake boat races are a well-known
- annual event
+    Thrissur is a city in the south Indian state of Kerala.
+     It's known for sacred sites and colorful festivals. 
+     In the center is Vadakkumnathan Temple, dedicated to Lord Shiva and adorned with murals. 
+     The ornate, Indo-Gothic Our Lady of Dolours Basilica is nearby. 
+     To the north, Thiruvambady Temple is home to several elephants.
+     Sakthan Thampuran Palace houses an archaeology museum with bronze statues and ancient coins.
 </p>
     </div>
 </body>

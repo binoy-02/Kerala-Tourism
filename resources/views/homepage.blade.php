@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Kerala tourism</title>
+        <title>Kerala Tourism</title>
 
        
         <style>
@@ -16,7 +16,7 @@
             width: 100%;
             height: 100vh;
           
-            background-image: url('alleppey-tourism.jpg');
+            background-image: url('kerala-tourism.jpg');
              /* background: skyblue; */
             background-size: cover;
             /* background-position: center; */
@@ -62,9 +62,9 @@
         <h1 id="heading">KERALA TOURISM</h1>
             <div class="images">
                 <ul class="image-list">
-                    <li ><img height=100px width=100px src="Alappuzha.jpeg" alt="alappuzha"></li>
-                    <li><img height=100px width=100px src="kochi.jpeg" alt="kochi"></li>
-                    <li><img height=100px width=100px src="thrissur.jpg" alt="kochi"></li>
+                    <li ><a href="alappuzha"><img height=100px width=100px src="Alappuzha.jpeg" alt="alappuzha"></a><</li>
+                    <li><a href="kochi"><img height=100px width=100px src="kochi.jpeg" alt="kochi"></a></li>
+                    <li><a href="thrissur"><img height=100px width=100px src="thrissur.jpg" alt="kochi"></a></li>
                 </ul>
             </div>
             <h1>
